@@ -4,6 +4,8 @@ I'm a passionate learner, and educator, with a diverse academic background.  My 
 
 My love for technology has been a driving force behind my journey, throughout the development and implementation of various courses spanning a wide range of subjects,  leading me to explore and contribute to the educational landscape through innovative approaches.
 
+I'm also deeply passionate about music. Whether it's playing instruments, exploring different genres, or attending live performances, music is an integral part of my life.
+
 🔭 I’m currently a Software Engeneering cadet at [42rio](https://42.rio/), excited about the opportunity to collaborate, learn, and grow with like-minded individuals. 🔭
 
 👯 Let's connect and explore the possibilities together! 👯
