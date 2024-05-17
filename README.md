@@ -1,12 +1,10 @@
 ### Hi there! I'm Rodrigo! 👋
 
-I'm a passionate learner, and educator, with a diverse academic background.  My experience encompasses a diverse spectrum of skills and perspectives, intertwining scientific rigor with creative problem-solving.
+I'm an enthusiastic learner and educator with a diverse academic background. My journey has led me through various disciplines and study fields.
 
-My love for technology has been a driving force behind my journey, throughout the development and implementation of various courses spanning a wide range of subjects,  leading me to explore and contribute to the educational landscape through innovative approaches.
+Technology has played a significant role in my exploration of different subjects and in contributing to innovative educational approaches. Through the development and implementation of diverse courses, I've engaged with the educational landscape in dynamic ways.
 
-I'm also deeply passionate about music. Whether it's playing instruments, exploring different genres, or attending live performances, music is an integral part of my life.
-
-🔭 I’m currently a Software Engeneering cadet at [42rio](https://42.rio/), excited about the opportunity to collaborate, learn, and grow with like-minded individuals. 🔭
+🔭 I’m currently a Software Engineering cadet at [42rio](https://42.rio/), excited about the opportunity to collaborate, learn, and grow with like-minded individuals. 🔭
 
 👯 Let's connect and explore the possibilities together! 👯
 
