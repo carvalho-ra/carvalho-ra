@@ -1,14 +1,14 @@
 <div align="center">
-  <h1>Rodrigo Carvalho 👋</h1>
-  <p>Engenheiro de Software | Backend | Docker | CI/CD | Python</p>
+<h2>Rodrigo Carvalho</h2>
+<p>Engenheiro de Software | Backend | Docker | CI/CD | Python</p>
 </div>
+
 Engenheiro de Software formado pela École 42 (42Rio), com foco em Backend Development, Docker e ambientes Linux. Tenho experiência prática com CI/CD, containerização e desenvolvimento de aplicações em Python e C.  
 
 Atualmente, busco oportunidades como Backend Developer Júnior ou DevOps Júnior, aplicando minhas habilidades técnicas e minha capacidade analítica desenvolvida durante minha trajetória acadêmica e profissional.  
 
----
 
-## 🛠️ Tecnologias e Ferramentas
+#### 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens:** Python, C, C++, Shell Scripting
 - **Frameworks:** Flask, Django, Django REST Framework, Django Channels
