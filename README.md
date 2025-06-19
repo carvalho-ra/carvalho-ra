@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Rodrigo Carvalho</h2>
-<p>Engenheiro de Software | Backend | Docker | CI/CD | Python</p>
+<p>Engenheiro de Software | Backend | Docker | CI/CD | Python | C++ | C</p>
 </div>
 <br></br>
 Engenheiro de Software formado pela École 42 (42Rio), com foco em Backend Development, Docker e ambientes Linux. Tenho experiência prática com CI/CD, containerização e desenvolvimento de aplicações em Python e C.  
