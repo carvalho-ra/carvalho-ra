@@ -9,7 +9,7 @@ Engenheiro de Software formado pela **École 42 (42Rio)**, com foco em **desenvo
 
 Tenho experiência prática com desenvolvimento de aplicações em **Python** e **C**, APIs REST, Docker, automação de ambientes e arquitetura cliente-servidor.
 
-Background interdisciplinar em tecnologia, educação digital e desenvolvimento de software.
+Background interdisciplinar que integra **Educação e Tecnologia**, com experiência em educação digital e desenvolvimento de software.
 
 #### 🛠️ Tecnologias e Ferramentas
 
@@ -21,11 +21,12 @@ Background interdisciplinar em tecnologia, educação digital e desenvolvimento 
 
 ---
 
-💻 Confira meus projetos públicos abaixo e fique à vontade para entrar em contato.
+💻 Confira meus projetos públicos abaixo.
 
 <br>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rodrigo_carvalho)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://carvalho-ra.github.io/portfolio_sdd/)
 [![42rio](https://img.shields.io/badge/42rio-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.rio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carvalhora/)
 [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigoadcarvalho@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rodrigo_carvalho)
