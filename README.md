@@ -5,19 +5,20 @@
 
 <br>
 
-Engenheiro de Software formado pela **École 42 (42Rio)**, com foco em **desenvolvimento backend**, **aplicações web** e **ambientes Linux**.  
+Engenheiro de Software formado pela **École 42 (42Rio)**, com foco em **desenvolvimento backend**, **aplicações web** e **ambientes Linux**.
 
-Tenho experiência prática com desenvolvimento de aplicações em **Python** e **C**, APIs REST, Docker, automação de ambientes e arquitetura cliente-servidor.
+Tenho experiência prática com desenvolvimento de aplicações em **Python** e **C**, APIs REST, bancos de dados, Docker, automação de ambientes e arquitetura cliente-servidor.
 
 Background interdisciplinar que integra **Educação e Tecnologia**, com experiência em educação digital e desenvolvimento de software.
 
 #### 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens:** Python, C, JavaScript, Shell Script
-- **Backend e Web:** Flask, Django, Django REST Framework, HTML, CSS, SQLite
-- **Infraestrutura e Ferramentas:** Docker, Docker Compose, Git, Linux (Debian/Ubuntu), Nginx, Gunicorn
+- **Backend e Web:** FastAPI, Flask, Django, Django REST Framework, React, HTML, CSS
+- **Banco de Dados:** PostgreSQL, SQLite, SQLAlchemy
+- **Infraestrutura e Ferramentas:** Docker, Docker Compose, Git, Linux (Debian/Ubuntu), Nginx, Gunicorn, Railway
 - **Dados e IA:** Pandas, Scikit-learn, Plotly, Streamlit, Ollama
-- **Boas práticas:** Clean Code, Git, Testes Automatizados, Metodologias Ágeis
+- **Boas práticas:** Clean Code, APIs REST, Testes Automatizados, Metodologias Ágeis
 
 ---
 
